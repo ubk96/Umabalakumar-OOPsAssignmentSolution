@@ -3,7 +3,7 @@ package superDepartment;
 public class HrDepartment extends SuperDepartment{
 	
 	public String department() {
-		String name = "Admin Department";
+		String name = "HR Department";
 		return name;
 	}
 	
